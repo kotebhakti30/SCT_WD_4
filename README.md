@@ -1,17 +1,23 @@
-🚀 Project Overview
+# 📝 To-Do List App
 
-This repository contains the deliverables for my web development internship at Skillcraft Technology.
-The project focuses on building a modern, responsive, and user-friendly multi-page website using HTML, CSS, and JavaScript.
+## 📌 Project Overview
+An interactive **To-Do List application** to manage daily tasks.  
+Users can add, delete, and mark tasks as completed.
 
-Each task introduced new concepts, features, and design elements to strengthen front-end development skills.
+## ✨ Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Interactive and responsive UI
+- Works on desktop and mobile
 
-Task 4 – Final Styling & Enhancements
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
-Shifted from lavender theme to a bright, modern color palette for better visibility.
+## 🌐 Live Demo
+👉 [View Project](https://kotebhakti30.github.io/SCT_WD_4/)
 
-Added interactive hover effects, typography improvements, and section styling.
+---
 
-Ensured full responsiveness across devices (desktop, tablet, mobile).
-
-🚩 Learning: UI/UX refinement, CSS transitions, responsive design best practices.
-Chek it out:https://kotebhakti30.github.io/SCT_WD_4/
